@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+
+# Media uploads
+uploads/
+
+# Static collected files
+staticfiles/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
